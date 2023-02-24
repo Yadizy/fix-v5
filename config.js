@@ -95,7 +95,7 @@ global.owner = [
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [083876079421] // Want some help?
-global.prems = [083876079421] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
