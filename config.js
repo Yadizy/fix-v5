@@ -74,7 +74,7 @@ global.nameown = 'YADI MODS DEV'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'YADI-MODS-BOT' // nama github lu
-global.linkgithub = - // EDIT LINK GITHUB DI global.sgh
+global.linkgithub = '-' // EDIT LINK GITHUB DI global.sgh
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
